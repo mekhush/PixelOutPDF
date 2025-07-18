@@ -163,7 +163,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Email: [kushalkush1804@gmail.com](mailto\:kushalkush1804@gmail.com)\
 GitHub: [@mekhush](https://github.com/mekhush)\
 LinkedIn: [me-khush](https://www.linkedin.com/in/me-khush)\
-Project Link: [https://github.com/mekhush/PixelOutPDF](https://github.com/your_username/PixelOutPDF)
+Project Link: [https://github.com/mekhush/PixelOutPDF](https://github.com/mekhush/PixelOutPDF)
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
