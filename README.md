@@ -61,6 +61,7 @@ This project uses the following core libraries:
 
 - Python 3.8+
 <p align="right"><a href="#readme-top">⬆️</a></p>
+
 ### 📚 Installation
 
 1. Clone the repository:
